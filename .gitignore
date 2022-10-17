@@ -189,3 +189,4 @@ main_async.py
 *.session
 *.code-workspace
 config.json
+*.session-journal
