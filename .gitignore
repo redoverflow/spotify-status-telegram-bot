@@ -188,3 +188,4 @@ cython_debug/
 main_async.py
 *.session
 *.code-workspace
+config.json
